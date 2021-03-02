@@ -1,2 +1,2 @@
 # React_learning
-Compilation of miniature projects done to learn ReactJS
+Compilation of miniature projects completed to learn ReactJS. 
